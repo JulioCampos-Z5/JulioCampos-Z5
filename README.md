@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnologías que conozco:</h2>
+<h2 align="left">stack:</h2>
 
 ###
 
