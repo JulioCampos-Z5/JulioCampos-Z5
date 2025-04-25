@@ -1,4 +1,4 @@
-<h1 align="left">Desarrollador jr</h1>
+<h1 align="left">Desarrollador</h1>
 
 ###
 
@@ -10,7 +10,7 @@ He trabajado tanto como freelancer como en empresas formales, liderando equipos,
 
 ###
 
-<h2 align="left">Stack:</h2>
+<h2 align="left">Tecnologias y Herramientas</h2>
 
 ###
 
