@@ -10,7 +10,7 @@ He trabajado tanto como freelancer como en empresas formales, liderando equipos,
 
 ###
 
-<h2 align="left">Tecnologias y Herramientas</h2>
+<h2 align="left">Tecnologías y Herramientas</h2>
 
 ###
 
