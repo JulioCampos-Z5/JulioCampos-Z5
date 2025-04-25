@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Soy ingeniero informático que busca una empresa en donde pueda demostrar sus habilidades y desarrollar nuevas experiencias para lograr un progreso profesional continuo.</p>
+<p align="left">Soy un ingeniero informático apasionado por la tecnología, con experiencia en desarrollo de aplicaciones de escritorio y web, consultoría tecnológica para pymes, y liderazgo de equipos técnicos. Me motiva aportar soluciones innovadoras y seguir aprendiendo en entornos dinámicos que impulsen mi crecimiento profesional.
+
+Mi enfoque combina habilidades técnicas sólidas (desarrollo con PHP, JavaScript, C#, Python, entre otros), experiencia en bases de datos SQL/MariaDB/MySQL, y conocimientos en frameworks modernos como Laravel, Vue, Tailwind y Bootstrap. Además, tengo experiencia práctica en análisis de datos con herramientas como Power BI, Tableau y Grafana, así como en diseño UX/UI usando Figma, Canva y Lunacy.
+
+He trabajado tanto como freelancer como en empresas formales, liderando equipos, capacitando personal, implementando soluciones de domótica, seguridad y sistemas personalizados. Busco incorporarme a una empresa en donde pueda seguir contribuyendo con soluciones tecnológicas efectivas y desarrollarme profesionalmente.</p>
 
 ###
 
