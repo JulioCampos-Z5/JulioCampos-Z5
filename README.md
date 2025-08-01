@@ -21,6 +21,8 @@ He trabajado tanto como freelancer como en empresas formales, liderando equipos,
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
@@ -51,7 +53,5 @@ He trabajado tanto como freelancer como en empresas formales, liderando equipos,
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
-
-###
 
 ###
